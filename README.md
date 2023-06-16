@@ -1,4 +1,4 @@
-# CME & Continuing Medical Education
+# Denner Portuguez V - Agility CMS + NextJS Starter Project
 
 ### Mainly technologies in the project
 - **Node**: v18.16.0 (Current LTS)
